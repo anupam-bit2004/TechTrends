@@ -1,4 +1,4 @@
-name: TechTrends - Package with Docker - Anupam
+name: TechTrends - Package with Docker-Anupam
 
 on:
   push:
